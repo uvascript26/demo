@@ -1,0 +1,430 @@
+{
+  "domains": [
+    "SLA",
+    "Beveiliging",
+    "Monitoring",
+    "Documentatie",
+    "BCM",
+    "Governance",
+    "Awareness",
+    "Cultuur",
+    "Externe borging",
+    "Normenkoppeling"
+  ],
+  "matrix": [
+    [
+      null,
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 6,
+        "type": "F"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 6,
+        "type": "F"
+      },
+      {
+        "score": 4,
+        "type": "E"
+      },
+      {
+        "score": 0,
+        "type": "0"
+      },
+      {
+        "score": 3,
+        "type": "E"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 6,
+        "type": "S"
+      }
+    ],
+    [
+      {
+        "score": 5,
+        "type": "C"
+      },
+      null,
+      {
+        "score": 7,
+        "type": "F"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 5,
+        "type": "F"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 6,
+        "type": "F"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 6,
+        "type": "S"
+      },
+      {
+        "score": 6,
+        "type": "S"
+      }
+    ],
+    [
+      {
+        "score": 6,
+        "type": "A"
+      },
+      {
+        "score": 8,
+        "type": "A"
+      },
+      null,
+      {
+        "score": 5,
+        "type": "A"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 2,
+        "type": "C"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 5,
+        "type": "A"
+      },
+      {
+        "score": 8,
+        "type": "A"
+      }
+    ],
+    [
+      {
+        "score": 6,
+        "type": "S"
+      },
+      {
+        "score": 6,
+        "type": "S"
+      },
+      {
+        "score": 5,
+        "type": "F"
+      },
+      null,
+      {
+        "score": 5,
+        "type": "F"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 6,
+        "type": "F"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 6,
+        "type": "S"
+      },
+      {
+        "score": 6,
+        "type": "S"
+      }
+    ],
+    [
+      {
+        "score": 8,
+        "type": "A"
+      },
+      {
+        "score": 5,
+        "type": "A"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 5,
+        "type": "A"
+      },
+      null,
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 5,
+        "type": "A"
+      },
+      {
+        "score": 8,
+        "type": "A"
+      }
+    ],
+    [
+      {
+        "score": 8,
+        "type": "M"
+      },
+      {
+        "score": 6,
+        "type": "M"
+      },
+      {
+        "score": 8,
+        "type": "M"
+      },
+      {
+        "score": 8,
+        "type": "M"
+      },
+      {
+        "score": 9,
+        "type": "M"
+      },
+      null,
+      {
+        "score": 7,
+        "type": "M"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 4,
+        "type": "M"
+      },
+      {
+        "score": 8,
+        "type": "M"
+      }
+    ],
+    [
+      {
+        "score": 5,
+        "type": "A"
+      },
+      {
+        "score": 7,
+        "type": "A"
+      },
+      {
+        "score": 2,
+        "type": "S"
+      },
+      {
+        "score": 5,
+        "type": "A"
+      },
+      {
+        "score": 5,
+        "type": "S"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      null,
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 2,
+        "type": "A"
+      },
+      {
+        "score": 5,
+        "type": "A"
+      }
+    ],
+    [
+      {
+        "score": 7,
+        "type": "M"
+      },
+      {
+        "score": 5,
+        "type": "M"
+      },
+      {
+        "score": 7,
+        "type": "M"
+      },
+      {
+        "score": 7,
+        "type": "M"
+      },
+      {
+        "score": 7,
+        "type": "M"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 7,
+        "type": "M"
+      },
+      null,
+      {
+        "score": 4,
+        "type": "M"
+      },
+      {
+        "score": 5,
+        "type": "M"
+      }
+    ],
+    [
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 5,
+        "type": "F"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 5,
+        "type": "F"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 2,
+        "type": "F"
+      },
+      {
+        "score": 5,
+        "type": "E"
+      },
+      null,
+      {
+        "score": 5,
+        "type": "C"
+      }
+    ],
+    [
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 7,
+        "type": "F"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      {
+        "score": 7,
+        "type": "F"
+      },
+      {
+        "score": 6,
+        "type": "E"
+      },
+      {
+        "score": 5,
+        "type": "F"
+      },
+      {
+        "score": 5,
+        "type": "E"
+      },
+      {
+        "score": 5,
+        "type": "C"
+      },
+      null
+    ]
+  ],
+  "hefboom": {
+    "SLA": 31,
+    "Beveiliging": 46,
+    "Monitoring": 43,
+    "Documentatie": 42,
+    "BCM": 45,
+    "Governance": 53,
+    "Awareness": 42,
+    "Cultuur": 49,
+    "Externe borging": 36,
+    "Normenkoppeling": 45
+  },
+  "lagen": {
+    "SLA": 3,
+    "Beveiliging": 3,
+    "Monitoring": 2,
+    "Documentatie": 3,
+    "BCM": 2,
+    "Governance": 1,
+    "Awareness": 2,
+    "Cultuur": 1,
+    "Externe borging": 3,
+    "Normenkoppeling": 3
+  }
+}
