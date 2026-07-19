@@ -694,6 +694,9 @@ with tab_pad:
         if huidig >= 5:
             st.info(f"{doel_domein} staat al op het maximum (niveau 5).")
             streef = 5
+        elif huidig == 4:
+            st.info("Nog één stap mogelijk: streefniveau 5.")
+            streef = 5
         else:
             streef = st.slider(
                 "Naar welk niveau?", huidig + 1, 5, min(huidig + 2, 5),
